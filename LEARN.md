@@ -105,7 +105,7 @@ When a user calls the approve function, they must also attach money else the not
 ## Asking users to accept notifications
 Now that you have setup your contract to send notifications, the users have to explicitly tell ECM that they wish to receive notifications. 
 
-To do so the users can head over to ecmnetwork.org and tap on subscribe to notifications. 
+To do so the users can head over to https://madhavanmalolan.github.io/ecm.js/ and tap on subscribe to notifications. 
 
 Once they do, they’ll be asked to send a signed transaction using Metamask.
 
